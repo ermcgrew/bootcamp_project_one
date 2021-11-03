@@ -2,7 +2,7 @@
 
 Group Project One for Data Visualization and Anaylsis Bootcamp: Exploratory Data Analysis
 
-Group members: ELena Church, Nicole van Driss, Emily McGrew, Ashley Sligh, Jueting Xu 
+Group members: Elena Church, Nicole van Driss, Emily McGrew, Ashley Sligh, Jueting Xu 
 
 Data sources: Metrics by country for Fertility, GDP per capita, Life expectancy, Meat consumption, Median age, Population growth, Sex-ratio, Suicide rate, and Urbanization rate from https://www.kaggle.com/daniboy370/world-data-by-country-2020. 
 World Happiness scores from https://happiness-report.s3.amazonaws.com/2020/WHR20_DataForFigure2.1.xls
