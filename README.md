@@ -13,3 +13,4 @@ In this repo
 * Output directory: png files of all graphs produced
 * Resources directory: csv files of data
 * data_analysis.ipynb: jupyter notebook file of data cleaning and analysis
+* geojson_meat.ipynb: jupyter notebook of code for creating geojson cloropleth map of meat consumption
