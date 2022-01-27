@@ -11,6 +11,7 @@ Hypothesis: Meat consumption is positively correlated with Fertility, GDP per ca
 
 In this repo
 * Output directory: png files of all graphs produced
+* Presentation and Analysis directory: PDFs of group analysis paper and presentation slides
 * Resources directory: csv files of data
 * data_analysis.ipynb: jupyter notebook file of data cleaning and analysis
 * geojson_meat.ipynb: jupyter notebook of code for creating geojson cloropleth map of meat consumption
